@@ -225,6 +225,7 @@ taleb 4ed full text.pdf
 
 # Data files
 *.csv
+*.CSV
 *.xlsx
 *.docx
 *.pptx
