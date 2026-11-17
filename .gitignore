@@ -227,3 +227,10 @@ web_files/
 quantlibpythoncookbook.pdf
 taleb 4ed full text.pdf
 /tanimura/*/*.csv
+
+# Data files
+*.csv
+*.xlsx
+*.docx
+*.pptx
+*.pdf
