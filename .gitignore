@@ -235,3 +235,5 @@ taleb 4ed full text.pdf
 *.pptx
 *.pdf
 *.sql
+/edhec/
+/ibm-native-ai-de/
