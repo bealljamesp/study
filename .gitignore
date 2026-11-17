@@ -231,3 +231,4 @@ taleb 4ed full text.pdf
 *.pptx
 *.pdf
 *.sql
+*.[cC][sS][vV]
